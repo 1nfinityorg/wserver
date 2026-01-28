@@ -1,1 +1,22 @@
-{}
+{
+  "version": "1.0",
+  "timestamp": 1706400000,
+  "products": [
+    {
+      "id": "infinity-loader",
+      "name": "Infinity Loader",
+      "description": "Main loader application",
+      "version": "2.1.0",
+      "category": "tools",
+      "type": "executable",
+      "platforms": {
+        "windows": {
+          "download_url": "https://cdn.example.com/loader.exe",
+          "sha256": "abc123...",
+          "size_bytes": 15728640
+        }
+      },
+      "requires_license": true
+    }
+  ]
+}
