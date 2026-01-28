@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "timestamp": 1706400000,
+  "updated_at": "2026-01-28T04:41:47.280519",
   "products": [
     {
       "id": "infinity-loader",
@@ -16,7 +16,23 @@
           "size_bytes": 15728640
         }
       },
-      "requires_license": true
+      "dependencies": {},
+      "python_config": null,
+      "metadata": {},
+      "active": true
+    },
+    {
+      "id": "XX",
+      "name": "I am",
+      "description": "",
+      "version": "1.1",
+      "category": "tools",
+      "type": "executable",
+      "platforms": {},
+      "dependencies": {},
+      "python_config": null,
+      "metadata": {},
+      "active": true
     }
   ]
 }
