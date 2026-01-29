@@ -1,51 +1,5 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-29T04:49:57.915249",
-  "products": [
-    {
-      "id": "infinity-loader",
-      "name": "Infinity Loader",
-      "description": "Main loader application",
-      "version": "2.1.0",
-      "category": "tools",
-      "type": "executable",
-      "platforms": {
-        "windows": {
-          "download_url": "https://cdn.example.com/loader.exe",
-          "sha256": "abc123...",
-          "size_bytes": 15728640
-        }
-      },
-      "dependencies": {},
-      "python_config": null,
-      "metadata": {},
-      "active": true
-    },
-    {
-      "id": "XX",
-      "name": "I am",
-      "description": "",
-      "version": "1.1",
-      "category": "tools",
-      "type": "executable",
-      "platforms": {},
-      "dependencies": {},
-      "python_config": null,
-      "metadata": {},
-      "active": true
-    },
-    {
-      "id": "my-a",
-      "name": "My A",
-      "description": "",
-      "version": "1.0.0",
-      "category": "tools",
-      "type": "python",
-      "platforms": {},
-      "dependencies": {},
-      "python_config": null,
-      "metadata": {},
-      "active": true
-    }
-  ]
+  "updated_at": "2026-01-29T05:07:07.234682",
+  "products": []
 }
