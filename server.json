@@ -1,5 +1,5 @@
 {
-  "primary_server": "localhost",
+  "primary_server": "http://localhost",
   "fallback_enabled": true,
   "products_fallback_url": "https://raw.githubusercontent.com/1nfinityorg/wserver/main/",
   "min_launcher_version": "1.0.0",
