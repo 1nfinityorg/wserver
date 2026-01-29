@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-28T07:13:50.600331",
+  "updated_at": "2026-01-29T04:49:57.915249",
   "products": [
     {
       "id": "infinity-loader",
@@ -29,23 +29,6 @@
       "category": "tools",
       "type": "executable",
       "platforms": {},
-      "dependencies": {},
-      "python_config": null,
-      "metadata": {},
-      "active": true
-    },
-    {
-      "id": "test-product-1a315e62",
-      "name": "Test Product",
-      "description": "Auto-generated test product",
-      "version": "1.0.0-test",
-      "category": "tools",
-      "type": "executable",
-      "platforms": {
-        "windows": {
-          "download_url": "https://example.com/test.exe"
-        }
-      },
       "dependencies": {},
       "python_config": null,
       "metadata": {},
