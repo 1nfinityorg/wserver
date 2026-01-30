@@ -1,5 +1,37 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-29T05:17:42.744937",
-  "products": []
+  "updated_at": "2026-01-30T05:13:54.743439",
+  "products": [
+    {
+      "id": "infinity-ddos-tool",
+      "name": "InfinityDDoS",
+      "description": "InfinityDDoS tool made by Infinity",
+      "version": "0.17.0-beta",
+      "category": "tools",
+      "type": "executable",
+      "platforms": {
+        "windows": {
+          "download_url": "https://raw.githubusercontent.com/1nfinityorg/InfinityDDoS/refs/heads/main/updates/infinityddos.exe",
+          "size_bytes": 0,
+          "hash_ref": {
+            "url": "https://raw.githubusercontent.com/1nfinityorg/InfinityDDoS/refs/heads/main/inf.json",
+            "type": "JSON",
+            "key": "CurrentHash"
+          }
+        },
+        "linux": {
+          "download_url": "https://raw.githubusercontent.com/1nfinityorg/InfinityDDoS/refs/heads/main/updates/infinityddos.bin",
+          "size_bytes": 0,
+          "sha256": ""
+        }
+      },
+      "dependencies": {
+        "system": [],
+        "python": []
+      },
+      "python_config": null,
+      "metadata": {},
+      "active": true
+    }
+  ]
 }
